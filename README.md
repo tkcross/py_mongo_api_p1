@@ -1,5 +1,10 @@
 # python+mongo+mongo-express
 
+## 環境
+* Windows10
+* WSL2
+* Docker v20.10.10, docker-compose v1.26.0
+
 ## 方針
 1. WSL2上のdockerでpython+mongo+mongo-express環境を構築する
 
