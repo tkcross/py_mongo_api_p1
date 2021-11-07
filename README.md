@@ -23,7 +23,7 @@ python /app/src/app.py
 * curl localhost:8000/ を打つと、メッセージが返ってくることでAPI起動が確認できる
 
 ## 引用
-### 前回より参考にしたサイトリスト
+### 参考にしたサイトリスト
 1. https://qiita.com/amenoyoya/items/ca9210593395dbfc8531
 2. https://www.youtube.com/watch?v=0iB5IPoTDts
 3. https://github.com/Homebrew/brew/issues/10368
